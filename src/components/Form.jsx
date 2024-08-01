@@ -6,7 +6,7 @@ function Form({ addTask, newTask, tasks, taskComplete }) {
       <div className="flex items-center justify-between mt-2 mb-5 text-xl font-bold text-black">
         <div>
           <span className="text-5xl">📃</span>
-          <span className="mr-3 text-4xl">TODO-LIST</span>
+          <span className="mr-3 text-4xl text-blue-400">TODO-LIST</span>
         </div>
         <span className="p-2 mt-4 mr-3 text-sm text-white rounded-md shadow-md bg-slate-400">
           {taskComplete}/{tasks.length}
