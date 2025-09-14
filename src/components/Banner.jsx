@@ -8,7 +8,6 @@ function Banner() {
       "Web Developer",
       "Web Designer",
       "Fullstack Developer",
-      "Geprekers",
     ],
     loop: {},
   });
