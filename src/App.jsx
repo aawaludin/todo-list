@@ -75,7 +75,7 @@ function App() {
     <>
       <div className="flex justify-center w-screen min-h-[500px] p-5 text-white bg-white">
         <div className="flex flex-col min-w-96">
-          <Banner />
+                           { /*<Banner /> */ }
           <Form
             newTask={newTask}
             addTask={addTask}
